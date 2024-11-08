@@ -103,9 +103,9 @@ Exécutez le fichier `main.py` qui initialise la grille, place les poissons et l
 ### Contributeurs
 
 Ce projet a été imaginé et réalisé par :
-- Sami Kabdani - Apprenant Tech IA
-- Michael Adebayo - Apprenant Tech IA
-- Antoine Delvoye - Apprenant Tech IA
+- [Sami Kabdani](https://github.com/Sami-Kbdn) - Apprenant Tech IA
+- [Michael Adebayo](https://github.com/MichAdebayo/) - Apprenant Tech IA
+- [Antoine Delvoye](https://github.com/HerculePoivrot) - Apprenant Tech IA
 
 ### Remerciements
 
