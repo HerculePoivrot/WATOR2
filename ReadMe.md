@@ -87,7 +87,7 @@ La classe `Ocean` représente l'environnement dans lequel les poissons et les re
     - `start_simulation()`: Effectue les actions de tous les poissons et requins dans un tour (déplacements, reproduction, etc.).
 
 
-[![Voir le code de Environnement.py](https://img.shields.io/badge/Class%20Ocean-darkblue)](environnement.py)  
+[![Voir le code de Environnement.py](https://img.shields.io/badge/Class%20Ocean-darkblue)](environment.py)  
 
 
 
